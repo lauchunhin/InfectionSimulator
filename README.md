@@ -45,7 +45,7 @@ cout << "========================" << endl;
 ```
 
 The output will be:
-
+```
 ========================
 p p p p p p p p 
 p p p p p p p p 
@@ -66,4 +66,5 @@ p p p p p p p p
 2 3 4 5 4 p p 1 
 1 2 3 4 3 2 1 p 
 ========================
+```
 This shows that the infectWithPower function has spread the infection from the cell at (3,3) with a power level of 8.
